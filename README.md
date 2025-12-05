@@ -281,3 +281,5 @@ This project is for educational purposes as a final project submission.
 - Powered by [Supabase](https://supabase.com/)
 - Icons by [Lucide](https://lucide.dev/)
 - Styling with [Tailwind CSS](https://tailwindcss.com/)
+
+Deployment link; https://hope-bridge-crowdfun-t6nj.bolt.host
